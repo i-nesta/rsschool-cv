@@ -20,6 +20,7 @@ My goal is to reach the junior developer level in the next year. I strive for a 
 * Git
 * JavaScript basics
 * VSCode
+
 ***
 ## Code examples
 
@@ -65,6 +66,7 @@ for (let i = 0; i < 3; i++) {
 Rolling Scopes School
 
     *JS / FRONT-END Developer*
+    
 ***
 ## Language
 English A2
