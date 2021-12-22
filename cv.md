@@ -22,6 +22,7 @@ My goal is to reach the junior developer level in the next year. I strive for a 
 * VSCode
 ***
 ## Code examples
+
 ```
 function tasknumbers2(){
     let counter =3;
