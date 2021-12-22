@@ -22,9 +22,31 @@ My goal is to reach the junior developer level in the next year. I strive for a 
 * VSCode
 ***
 ## Code examples
+```
+function tasknumbers2(){
+    let counter =3;
+    counter++
+    alert (counter)
+}
+
+
+function tasknumbers1(){
+    let apple="2"
+    let orange="3"
+    alert (+apple + +orange)
+}
+
+
+function cicle1(){
+for (let i = 0; i < 3; i++) {
+    alert( `number ${i}!` );
+  }
+}
+```
 
 ***
 ## Experience
+[CV](cv.md)
 
 ***
 ## Education
